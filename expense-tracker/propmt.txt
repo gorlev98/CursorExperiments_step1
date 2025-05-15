@@ -1,0 +1,12 @@
+Call_1:
+
+Could you please create new project for next HTML/JS web applications?
+This app should take on input list of pairs { category, amount}, where category is a string title, amount - number, >=0.
+On UI user should be able to see list of input pairs, where he can add / delete pair and button "Calculate".
+Click on that button should display on UI in some text block:
+1) Total amount = sum of all amounts
+2) Average daily expence = Total / 30
+3) Max 3 amounts with their titles.
+
+Call_2 (and other): Some permissions approvals.
+
